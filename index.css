@@ -1,0 +1,13 @@
+input:focus{
+    background-color: yellow;
+    color: brown;
+    font-size: 44pt;
+}
+
+h1::first-line{
+    color: red;
+    font-size: 55pt;
+}
+a:active{
+    background-color: green;
+}
